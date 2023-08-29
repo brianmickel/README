@@ -1,9 +1,16 @@
-Hello! I'm Brian, a versatile software engineer working remotely from Chicago, IL. I complement my software development skillset with a unique blend of problem-solving skills from a different engineering discipline.
+Hello! I'm Brian, a software engineer working remotely from Chicago, IL.
 
-My journey in the tech industry started with a desire to write impactful code. I honed my skills in both backend and frontend development at an edtech startup. We built better math education software to provide students a path to understanding math concepts and being more likely to graduate. I played a crucial role in building new language features and standard library functions for a question coding DSL. I built and improved frontend components to improve the experence and helpd create a useful internal support site. My skillset expanded to include Typescript, LitElement, Golang, Protobufs, and cloud services like GCP App Engine and Firebase.
 
-I joined a commercial real estate software company as a software engineer. It provided me with the opportunity to iterate on an API for property syndication and contribute to the full-stack development of their CRM product. My experience in tackling critical bugs and implementing solutions for customers proved invaluable. I contributed to a tech stack that included React, Redux, Ruby on Rails, MySQL, and AWS.
+I’ve had some great opportunities in software:
+* I’ve helped improve graduation outcomes for students through better math homework software
+* I’ve worked to simplify the commercial real estate industry through better software tooling
+* I am currently working to help merchants of all sizes from the board game shop on up understand their data 
 
-I am currently a backend software engineer focused on building near-realtime reporting endpoints to empower merchants with valuable insights into their sales. I take pride in my role as a technical collaborator, regularly writing and reviewing design documentation to ensure the successful implementation of features across different teams. Moreover, I've taken on the challenge of optimizing a legacy system, pushing it beyond its initial design limits to handle unprecedented amounts of data. My skillset is expanding to include Java, Kubernetes, gRPC, Bazel, as well as cloud platforms like GCP and AWS.
 
-I look forward to making the world a little better through software.
+I’ve been able to work with the following tools in production:
+* Typescript, LitElement, Golang, Protobufs, GCP App Engine and Firebase
+* React, Redux, Ruby on Rails, MySQL, and AWS
+* Java, Kubernetes, gRPC, Bazel, as well as cloud platforms like GCP and AWS.
+
+
+I’m making the world a little bit brighter through software.
