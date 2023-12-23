@@ -4,7 +4,7 @@ Hello! I'm Brian, a software engineer working remotely from Chicago, IL.
 I’ve solved some interesting problems:
 * I helped improve graduation outcomes for students through better math homework software
 * I built tooling to simplify the syndication mess for commercial real estate brokers
-* I help merchants of all sizes from the understand their sales 
+* I help merchants of all sizes understand their sales 
 
 
 I’ve shipped with the following tools:
